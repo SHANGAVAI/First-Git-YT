@@ -1,3 +1,5 @@
 print("Add",2+2)
 print("Sub",8-6)
 print("Multiply",3*4)
+print("Divide",16/2)
+print("Modulus",10%3)
